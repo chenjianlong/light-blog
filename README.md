@@ -1,4 +1,4 @@
 light-blog
 ==========
 
-This is a blog platform use weepy
+This is a blog platform use webpy
